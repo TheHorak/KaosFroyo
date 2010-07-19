@@ -256,7 +256,6 @@ set_perm 1000 1000 0771 DATA:app
 show_progress 0.2 0
 format BOOT:
 write_raw_image PACKAGE:boot.img BOOT:
-write_radio_image PACKAGE:radio.img
 
 show_progress 0.1 0
 
