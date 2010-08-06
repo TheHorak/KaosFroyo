@@ -46,6 +46,13 @@
         <group gid="inet" />
     </permission>
 
+<permission name="android.webkit.permission.PLUGIN" >
+<group gid="inet" />
+    </permission>
+
+
+
+
     <permission name="android.permission.CAMERA" >
         <group gid="camera" />
     </permission>

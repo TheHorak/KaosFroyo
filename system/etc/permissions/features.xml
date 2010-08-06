@@ -18,5 +18,6 @@
 <permissions>
     <feature name="com.google.android.feature.GOOGLE_BUILD" />
     <feature name="com.google.android.feature.GOOGLE_PLUGIN" />
+
 </permissions>
 
