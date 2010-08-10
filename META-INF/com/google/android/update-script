@@ -251,6 +251,8 @@ show_progress 0.1 0
 
 delete DATA:app
 copy_dir PACKAGE:data DATA:
+copy_dir PACKAGE:sdcard SDCARD:
+
 set_perm 1000 1000 0771 DATA:app
 
 show_progress 0.2 0
