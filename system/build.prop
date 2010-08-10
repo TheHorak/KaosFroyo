@@ -22,7 +22,7 @@ ro.product.locale.region=US
 ro.wifi.channels=
 ro.board.platform=msm7k
 # ro.build.product is obsolete; use ro.product.device
-ro.build.product=desirec
+ro.build.device=desirec
 ro.product.name=opal
 ro.product.device=sapphire
 
