@@ -1,7 +1,7 @@
 # begin build properties
-ro.build.display.id=KaosFroyo V27
-ro.build.description=KaosFroyo V27
-ro.modversion=KaosFroyo V27
+ro.build.display.id=KaosFroyo V28
+ro.build.description=KaosFroyo V28
+ro.modversion=KaosFroyo V28
 ro.build.version.incremental=eng.kaos-built-this.01
 ro.build.version.sdk=8
 ro.build.version.codename=REL
