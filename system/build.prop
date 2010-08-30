@@ -81,3 +81,4 @@ net.bt.name=Android
 dalvik.vm.stack-trace-file=/data/anr/traces.txt
 dalvik.vm.execution-mode=int:jit
 windowsmgr.max_events_per_sec=60
+dalvik.vm.heapsize=24m
