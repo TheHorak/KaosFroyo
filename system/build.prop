@@ -27,7 +27,7 @@ ro.product.name=opal
 ro.product.device=sapphire
 
 # Do not try to parse ro.build.description or .fingerprint
-ro.build.fingerprint=google/passion/passion/mahimahi:2.2/FRF85B/42745:user/release-keys
+ro.build.fingerprint=google/passion/passion/mahimahi:2.2/FRG33/48579:user/release-keys
 # end build properties
 
 #
