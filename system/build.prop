@@ -1,7 +1,7 @@
 # begin build properties
-ro.build.display.id=KaosFroyo V35
-ro.build.description=KaosFroyo V35
-ro.modversion=KaosFroyo V35
+ro.build.display.id=KaosFroyo V34
+ro.build.description=KaosFroyo V34
+ro.modversion=KaosFroyo V34
 ro.build.version.incremental=eng.kaos-built-this.01
 ro.build.version.sdk=8
 ro.build.version.codename=REL
@@ -27,7 +27,7 @@ ro.product.name=opal
 ro.product.device=sapphire
 
 # Do not try to parse ro.build.description or .fingerprint
-ro.build.fingerprint=google/passion/passion/mahimahi:2.2/FRG33/48579:user/release-keys
+ro.build.fingerprint=google/passion/passion/mahimahi:2.2/FRF85B/42745:user/release-keys
 # end build properties
 
 #
