@@ -1,11 +1,11 @@
 # begin build properties
-ro.build.display.id=KaosFroyo V36
-ro.build.description=KaosFroyo V36
-ro.modversion=KaosFroyo V36
+ro.build.display.id=KaosFroyo V37
+ro.build.description=KaosFroyo V37
+ro.modversion=KaosFroyo V37
 ro.build.version.incremental=eng.kaos-built-this.01
 ro.build.version.sdk=8
 ro.build.version.codename=REL
-ro.build.version.release=2.2
+ro.build.version.release=2.2.1
 ro.build.date=Fri Jul  2 17:25:10 CDT 2010
 ro.build.date.utc=1278109510
 ro.build.type=eng
